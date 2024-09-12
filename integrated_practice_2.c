@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define NUM_FRIENDS 3
+#define NUM_FRIENDS 3 
 
 typedef struct Monster Monster;
 
