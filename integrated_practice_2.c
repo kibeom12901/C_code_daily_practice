@@ -6,7 +6,7 @@
 
 typedef struct Monster Monster;
 
-typedef struct Candy{
+typedef struct Candy{ 
     char c_name[100];
     Monster *receiver;
 }Candy;
