@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define NUM_FRIENDS 3 
-
+  
 typedef struct Monster Monster;
 
 typedef struct Candy{ 
