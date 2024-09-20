@@ -5,7 +5,7 @@
 typedef struct Student{
     char name[100];
     char date[100];
-    struct Student *partner; 
+    struct Student *partner;  
     int printed;
 }Student;
 
